@@ -13,5 +13,5 @@
 
 <h1 align="center"><b>Badges </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="60">
+<img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100">
 
