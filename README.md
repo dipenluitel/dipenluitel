@@ -12,8 +12,7 @@
 - I’m currently open for an Intern or a new job opportunity, this is [my LinkedIn](https://www.linkedin.com/in/dipen-l-687b63146/)
 
 <h1 align="center"><b>Badges </b></h1>
-<img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100">
-<img src="https://github.com/dipenluitel/dipenluitel/blob/main/cloud_flutter.png" alt="TryHackMe" height="100">
+<img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100"> <img src="https://github.com/dipenluitel/dipenluitel/blob/main/cloud_flutter.png" alt="TryHackMe" height="100">
 
 
 
