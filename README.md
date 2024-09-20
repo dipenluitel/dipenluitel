@@ -13,4 +13,6 @@
 
 <h1 align="center"><b>Badges </b></h1>
 <img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100">
+<img src="https://www.cloudskillsboost.google/public_profiles/244dfdf8-c2ac-4e51-b8cd-752af75e6630/badges/2768350" alt="Google Cloud" Height="100">
+
 
