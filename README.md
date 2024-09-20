@@ -13,6 +13,6 @@
 
 <h1 align="center"><b>Badges </b></h1>
 <img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100">
-<img src="https://www.credly.com/badges/85ab0636-8d26-4879-850c-f6977cb4f60a/public_url" Height="100">
-<img src="https://www.credly.com/badges/85ab0636-8d26-4879-850c-f6977cb4f60a/public_url.png" alt="Credly Badge" height="100">
+![Cloud Flutter](./cloud_flutter.png)
+
 
