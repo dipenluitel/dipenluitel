@@ -14,8 +14,8 @@
 <h1 align="center"><b>Badges </b></h1>
 <table>
   <tr>
-    <td><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100"></td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/cloud_flutter.png" alt="Cloud Flutter" height="100"></td>
+    <td><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100">Try Hack Me</td>
+    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/cloud_flutter.png" alt="Cloud Flutter" height="100" width=100>Google cloud Flutter</td>
   </tr>
   <tr>
     <td><img src="https://example.com/image1.png" alt="Image 1" height="100"></td>
