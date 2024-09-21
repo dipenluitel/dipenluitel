@@ -3,10 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Github+Account.I+am......&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;BUG+Hunter,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <table>
+  <h1 align="center"><b>About Me</b></h1>
   <tr>
     <td>
-<h1 align="center"><b>About Me</b></h1>
-
 - A passionate Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development at Dravya Digital Management.
