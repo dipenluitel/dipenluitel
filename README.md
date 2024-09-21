@@ -8,15 +8,15 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <ul>
-        <li>A passionate Front-end developer</li><br />
-        <li>Playing CTF's at spare time</li><br />
-        <li>Active in Bugcroud, Hackerone and Open Bug Bountry</li><br />
-        <li>Currently Involved in Web Development at Dravya Digital Management.</li><br />
+        <li>A passionate <a href="https://en.wikipedia.org/wiki/Front-end_web_development">Front End Web Developer</a></li><br />
+        <li>Playing <a href="https://tryhackme.com/">CTF</a> at spare time</li><br />
+        <li>Active in <a href="https://www.bugcrowd.com/">Bugcroud,</a> <a href="https://www.hackerone.com/">Hackerone</a> and <a href="https://www.openbugbounty.org/">Open Bug Bountry</a></li><br />
+        <li>Currently Involved in Web Development at <a href="https://dravyanepal.com/">Dravya Digital Management.</a></li><br />
         <li>Wrieup lover of my learning stuff through text or videos <a href="https://www.youtube.com/@LinuxElectrons">[Youtube]</a></li><br />
         <li>Helping 30k+ members to Prepare for Computer Operator. <a href="https://www.facebook.com/groups/361978191366656/">Visit</a></li><br />
         <li>Contribution since 2020 in <a href="https://github.com/dipenluitel/hacktoberfest">Hacktoberfest</a></li><br />
-        <li>Personal <a href="https://www.dipenluitel3-.com.np">Website</a></li><br />
-        <li>I’m currently open for an Intern or a new job opportunity, My<a href="https://www.linkedin.com/in/dipen-l-687b63146/">LinkedIn</a></li><br />
+        <li>Personal <a href="https://www.dipenluitel30.com.np">Website</a></li><br />
+        <li>I’m currently open for Remote Intern or a Remote Part Time Job, My<a href="https://www.linkedin.com/in/dipen-l-687b63146/">LinkedIn</a></li><br />
       </ul>
     </td>
     <td style="vertical-align: top;">
