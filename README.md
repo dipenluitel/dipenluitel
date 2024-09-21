@@ -8,11 +8,11 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <ul>
-        <li>A passionate Front-end developer</li>
-        <li>Playing CTF's at spare time</li>
-        <li>Currently learning Web Development at Dravya Digital Management.</li>
-        <li>Personal website <a href="https://www.dipenluitel3-.com.np">link</a></li>
-        <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://www.linkedin.com/in/dipen-l-687b63146/">my LinkedIn</a></li>
+        <li>A passionate Front-end developer</li><br />
+        <li>Playing CTF's at spare time</li><br />
+        <li>Currently learning Web Development at Dravya Digital Management.</li><br />
+        <li>Personal website <a href="https://www.dipenluitel3-.com.np">link</a></li><br />
+        <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://www.linkedin.com/in/dipen-l-687b63146/">my LinkedIn</a></li><br />
       </ul>
     </td>
     <td style="vertical-align: top;">
