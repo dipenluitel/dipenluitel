@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td><h4>Try Hack Me</h4></td>
-    <td><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100" width="230"><br />Level</td>
+    <td><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100" width="260"><br />Level</td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/Pentest.png" alt="TryHackMe" height="100"><br />Pentest Principle</td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/Hash.png" alt="TryHackMe" height="100"><br />Hash Cracker</td>
   </tr>
