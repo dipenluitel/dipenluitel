@@ -15,9 +15,9 @@
 <table>
   <tr>
     <td><h4>Try Hack Me</h4></td>
-    <td><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100" width="260"><br />Level</td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/Pentest.png" alt="TryHackMe" height="100" width="100" align="center"><br />Pentest Principle</td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/Hash.png" alt="TryHackMe" height="100" width="100" align="center"><br />Hash Cracker</td>
+    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/Pentest.png" alt="TryHackMe" height="100" align="center"><br />Pentest Principle</td>
+    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/Hash.png" alt="TryHackMe" height="100" align="center"><br />Hash Cracker</td>
+        <td><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100"><br />Level</td>
   </tr>
   <tr>
     <td><h4>Google Cloud</h4></td>
@@ -27,9 +27,9 @@
   </tr>
   <tr>
     <td><h4><h4>IC2 Canidate</h4></h4></td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/CAPC.png" alt="IC2 Canidate" height="100" width="120" align="center"><br/>Cybersecurity Awareness</td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/EHCC.png" alt="IC2 Canidate" height="100" width="120" align="center"><br/>Ethical Hacking</td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/LLL.png" alt="IC2 Canidate" height="100" width="120" align="center"><br/>Lifelong Learner</td>
+    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/CAPC.png" alt="IC2 Canidate" height="100" align="center"><br/>Cybersecurity Awareness</td>
+    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/EHCC.png" alt="IC2 Canidate" height="100" align="center"><br/>Ethical Hacking</td>
+    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/LLL.png" alt="IC2 Canidate" height="100" align="center"><br/>Lifelong Learner</td>
   </tr>
 </table>
 
