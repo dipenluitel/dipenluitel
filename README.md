@@ -2,23 +2,25 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Github+Account.I+am......&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;BUG+Hunter,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-<table>
-  <h1 align="center"><b>About Me</b></h1>
+<h1 align="center"><b>About Me</b></h1>
+
+<table style="border: none; width: 100%;">
   <tr>
-    <td>
-<ul>
-  <li>A passionate Front-end developer</li>
-  <li>Playing CTF's at spare time</li>
-  <li>Currently learning Web Development at Dravya Digital Management.</li>
-  <li>Personal website <a href="https://www.dipenluitel3-.com.np">link</a></li>
-  <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://www.linkedin.com/in/dipen-l-687b63146/">my LinkedIn</a></li>
-</ul>
-</td>
-<td>
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dipenluitel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
-  </td>
-</tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <ul>
+        <li>A passionate Front-end developer</li>
+        <li>Playing CTF's at spare time</li>
+        <li>Currently learning Web Development at Dravya Digital Management.</li>
+        <li>Personal website <a href="https://www.dipenluitel3-.com.np">link</a></li>
+        <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://www.linkedin.com/in/dipen-l-687b63146/">my LinkedIn</a></li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dipenluitel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="GitHub stats" style="border: none;">
+    </td>
+  </tr>
 </table>
+
 
 <h1 align="center"><b>Badges </b></h1>
 <table>
