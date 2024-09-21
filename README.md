@@ -48,6 +48,25 @@
   </tr>
 </table>
 
+<div align="center">
+<h3><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h3>
+</div>
+<div align="center">
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rock12231" alt="rock12231" /></a> </p>
+</div>
+
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=dipenluitel&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c">
+    </td>
+    <td style="vertical-align: top;">
+      <img src="https://github.com/dipenluitel/dipenluitel/blob/main/ant.gif" alt="GitHub stats" style="border: none;">
+    </td>
+  </tr>
+</table>
+
+
 
 
 
