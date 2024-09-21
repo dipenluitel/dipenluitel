@@ -12,8 +12,10 @@
         <li>Playing CTF's at spare time</li><br />
         <li>Active in Bugcroud, Hackerone and Open Bug Bountry</li><br />
         <li>Currently Involved in Web Development at Dravya Digital Management.</li><br />
-        <li>Personal website <a href="https://www.dipenluitel3-.com.np">link</a></li><br />
-        <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://www.linkedin.com/in/dipen-l-687b63146/">my LinkedIn</a></li><br />
+        <li>Helping 30k+ members to Prepare for Computer Operator. <a href="https://www.facebook.com/groups/361978191366656/">Visit</a></li><br />
+        <li>Contribution since 2020 in <a href="https://github.com/dipenluitel/hacktoberfest">Hacktoberfest</a></li><br />
+        <li>Personal <a href="https://www.dipenluitel3-.com.np">Website</a></li><br />
+        <li>I’m currently open for an Intern or a new job opportunity, My<a href="https://www.linkedin.com/in/dipen-l-687b63146/">LinkedIn</a></li><br />
       </ul>
     </td>
     <td style="vertical-align: top;">
