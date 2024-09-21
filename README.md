@@ -10,7 +10,8 @@
       <ul>
         <li>A passionate Front-end developer</li><br />
         <li>Playing CTF's at spare time</li><br />
-        <li>Currently learning Web Development at Dravya Digital Management.</li><br />
+        <li>Active in Bugcroud, Hackerone and Open Bug Bountry</li><br />
+        <li>Currently Involved in Web Development at Dravya Digital Management.</li><br />
         <li>Personal website <a href="https://www.dipenluitel3-.com.np">link</a></li><br />
         <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://www.linkedin.com/in/dipen-l-687b63146/">my LinkedIn</a></li><br />
       </ul>
