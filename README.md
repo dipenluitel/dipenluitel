@@ -13,12 +13,11 @@
 - Personal website [link](https://www.dipenluitel3-.com.np)
 - I’m currently open for an Intern or a new job opportunity, this is [my LinkedIn](https://www.linkedin.com/in/dipen-l-687b63146/)
 - </td>
-</tr>
-<tr>
-  <td>
+<td>
     <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dipenluitel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
   </td>
 </tr>
+</table>
 
 <h1 align="center"><b>Badges </b></h1>
 <table>
