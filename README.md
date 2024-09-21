@@ -2,6 +2,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Github+Account.I+am......&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;BUG+Hunter,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+<table>
+  <tr>
+    <td>
 <h1 align="center"><b>About Me</b></h1>
 
 - A passionate Front-end developer
@@ -9,6 +12,13 @@
 - Currently learning Web Development at Dravya Digital Management.
 - Personal website [link](https://www.dipenluitel3-.com.np)
 - I’m currently open for an Intern or a new job opportunity, this is [my LinkedIn](https://www.linkedin.com/in/dipen-l-687b63146/)
+- </td>
+</tr>
+<tr>
+  <td>
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dipenluitel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
+  </td>
+</tr>
 
 <h1 align="center"><b>Badges </b></h1>
 <table>
