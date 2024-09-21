@@ -6,12 +6,14 @@
   <h1 align="center"><b>About Me</b></h1>
   <tr>
     <td>
-- A passionate Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development at Dravya Digital Management.
-- Personal website [link](https://www.dipenluitel3-.com.np)
-- I’m currently open for an Intern or a new job opportunity, this is [my LinkedIn](https://www.linkedin.com/in/dipen-l-687b63146/)
-- </td>
+<ul>
+  <li>A passionate Front-end developer</li>
+  <li>Playing CTF's at spare time</li>
+  <li>Currently learning Web Development at Dravya Digital Management.</li>
+  <li>Personal website <a href="https://www.dipenluitel3-.com.np">link</a></li>
+  <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://www.linkedin.com/in/dipen-l-687b63146/">my LinkedIn</a></li>
+</ul>
+</td>
 <td>
     <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dipenluitel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
   </td>
