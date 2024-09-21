@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td><h4><h4>IC2 Canidate</h4></h4></td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/CAPC.png" alt="IC2 Canidate" height="100" width="100" align="center"><br/>Cybersecurity Awareness</td>
+    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/CAPC.png" alt="IC2 Canidate" height="100" width="120" align="center"><br/>Cybersecurity Awareness</td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/EHCC.png" alt="IC2 Canidate" height="100" width="120" align="center"><br/>Ethical Hacking</td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/LLL.png" alt="IC2 Canidate" height="100" width="120" align="center"><br/>Lifelong Learner</td>
   </tr>
