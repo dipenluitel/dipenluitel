@@ -61,7 +61,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=dipenluitel&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c">
     </td>
     <td style="vertical-align: top;">
-      <img src="https://github.com/dipenluitel/dipenluitel/blob/main/ant.gif" alt="GitHub stats" style="border: none;">
+   Lines of Code Changes 
+<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />
     </td>
   </tr>
 </table>
