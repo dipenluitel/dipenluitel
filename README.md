@@ -62,7 +62,7 @@
     </td>
     <td style="vertical-align: top;">
    Lines of Code Changes 
-<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />
+<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto width=200" />
     </td>
   </tr>
 </table>
