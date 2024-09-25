@@ -30,10 +30,7 @@
 <table>
   <tr>
     <td><h4>Try Hack Me</h4></td>
-    <marquee>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/Pentest.png" alt="TryHackMe" height="100" align="center"><br />Pentest Principle</td>
     <td><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100"><br />Level</td>
-    </marquee>
   </tr>
   <tr>
     <td><h4>Google Cloud</h4></td>
