@@ -30,6 +30,7 @@
 <p align="center">
     <p><h4 align="center">Try Hack Me</h4></p>
     <p><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="dipen luitel" height="100"><br /></p>
+    <p><img align="right" src="https://github.com/dipenluitel/dipenluitel/blob/main/ant" alt="dipen" ></p>
 </p>
 
   <p align="center">
@@ -44,7 +45,7 @@
 </p>
 
 <div align="center">
-<h3><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h3>
+<h1 align="center"><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h1>
 </div>
 <div align="center">
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipenluitel" alt="dipenluitel" /></a> </p>
