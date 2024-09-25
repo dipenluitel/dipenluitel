@@ -29,7 +29,7 @@
 <h1 align="center"><b>Badges </b></h1>
 <p align="center">
     <p><h4 align="center">Try Hack Me</h4></p>
-    <p><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100"><br /></p>
+    <p><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="dipen luitel" height="100"><br /></p>
 </p>
 
   <p align="center">
@@ -51,8 +51,8 @@
 
 <h1 align="center">Git Activeness</h1>
  <p align="center">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipenluitel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="200" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipenluitel&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" height=200/></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipenluitel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="dipenluitel" height="200" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipenluitel&show_icons=true&locale=en&theme=chartreuse-dark" alt="dipen luitel" width="410" height="300" /></p>
 
 
 
