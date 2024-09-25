@@ -52,6 +52,7 @@
 <h1 align="center">Git Activeness</h1>
  <p align="center">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipenluitel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="dipenluitel" /></p>
+ <p><img align="left" src=" https://github.com/dipenluitel/dipenluitel/blob/main/ant" alt="dipen" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipenluitel&show_icons=true&locale=en&theme=chartreuse-dark" alt="dipen luitel" width="410"  /></p>
 
 
