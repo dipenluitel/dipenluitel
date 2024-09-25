@@ -49,8 +49,8 @@
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipenluitel" alt="dipenluitel" /></a> </p>
 </div>
 
+<h1 align="center">Git Activeness</h1>
  <p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipenluitel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="200" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipenluitel&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" height=200/></p>
 
