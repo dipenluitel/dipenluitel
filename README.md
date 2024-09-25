@@ -20,7 +20,7 @@
       </ul>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dipenluitel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="GitHub stats" style="border: none;">
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dipenluitel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="GitHub stats" style="border: none; height=100%;">
     </td>
   </tr>
 </table>
