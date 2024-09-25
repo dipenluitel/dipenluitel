@@ -30,8 +30,10 @@
 <table>
   <tr>
     <td><h4>Try Hack Me</h4></td>
+    <marquee>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/Pentest.png" alt="TryHackMe" height="100" align="center"><br />Pentest Principle</td>
     <td><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100"><br />Level</td>
+    </marquee>
   </tr>
   <tr>
     <td><h4>Google Cloud</h4></td>
@@ -49,7 +51,7 @@
 <h3><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h3>
 </div>
 <div align="center">
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rock12231" alt="rock12231" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipenluitel" alt="dipenluitel" /></a> </p>
 </div>
 
 <table style="border: none; width: 100%;">
