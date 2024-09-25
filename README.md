@@ -8,11 +8,11 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <ul>
-        <li>A passionate <a href="https://en.wikipedia.org/wiki/Front-end_web_development">Front End Web Developer.</a></li><br />
+        <li>A passionate <a href="https://en.wikipedia.org/wiki/Front-end_web_development">Front End Web Developer</a>.</li><br />
         <li>Playing <a href="https://tryhackme.com/">CTF</a> at spare time</li><br />
-        <li>Active in <a href="https://www.bugcrowd.com/">Bugcroud</a>, <a href="https://www.hackerone.com/">Hackerone</a> and <a href="https://www.openbugbounty.org/">Open Bug Bountry.</a></li><br />
+        <li>Active in <a href="https://www.bugcrowd.com/">Bugcroud</a>, <a href="https://www.hackerone.com/">Hackerone</a> and <a href="https://www.openbugbounty.org/">Open Bug Bountry</a>.</li><br />
         <li>Currently Involved in Web Development at <a href="https://dravyanepal.com/">Dravya Digital Management.</a></li><br />
-        <li>Wrieup lover of my learning stuff and sharing through <a href="https://www.github.com/dipenluitel">text</a> or videos in <a href="https://www.youtube.com/@LinuxElectrons">Youtube.</a></li><br />
+        <li>Wrieup lover of my learning stuff and sharing through <a href="https://www.github.com/dipenluitel">text</a> or videos in <a href="https://www.youtube.com/@LinuxElectrons">Youtube</a>.</li><br />
         <li>Helping 30k+ members to Prepare for  <a href="https://www.facebook.com/groups/361978191366656/">Computer Operator</a>.</li><br />
         <li>Contribution in <a href="https://github.com/dipenluitel/hacktoberfest">Hacktoberfest</a> since 2020.</li><br />
         <li>Personal <a href="https://www.dipenluitel30.com.np">Website</a></li><br />
