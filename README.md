@@ -58,19 +58,9 @@
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipenluitel" alt="dipenluitel" /></a> </p>
 </div>
 
-<table style="border: none; width: 100%;">
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=dipenluitel&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c">
-    </td>
-    <td style="vertical-align: top;">
-      <h6 align="center">Lines of Code Changed</h6>
-<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369" width="300" />
-    </td>
-  </tr>
-</table>
-
-<marquee>heeeeeeeeelo</marquee>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipenluitel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipenluitel&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 
 
