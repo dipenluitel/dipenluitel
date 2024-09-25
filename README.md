@@ -38,7 +38,6 @@
     <td><h4>Google Cloud</h4></td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/cloud_flutter.png" alt="Google Cloud" height="100" width="120" align="center"><br/>Flutter</td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/laterns%20and%20looker.png" alt="Google Cloud" height="100" width="120" align="center"><br/>Lookers</td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/laterns%20and%20looker.png" alt="Google Cloud" height="100" width="120" align="center"><br/>Lookers</td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/laterns%20and%20firebase.png" alt="Google Cloud" height="100" width="120" align="center"><br/>firebase</td>
 
   </tr>
