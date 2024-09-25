@@ -27,12 +27,10 @@
 
 
 <h1 align="center"><b>Badges </b></h1>
-<table style="border: none;">
-  <tr>
-    <td><h4>Try Hack Me</h4></td>
-    <td><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100"><br /></td>
-  </tr>
-</table>
+<p align="center">
+    <p><h4>Try Hack Me</h4></p>
+    <p><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100"><br /></p>
+</p>
   <table style="border: none;">
   <tr>
     <td><h4>Google Cloud</h4></td>
@@ -44,7 +42,7 @@
     <td width=100><h4><h4>IC2 Canidate</h4></h4></td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/blow" alt="IC2 Canidate" height="300" width="320" align="center"><br/></td>
   </tr>
-</table>
+</p>
 
 <div align="center">
 <h3><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h3>
