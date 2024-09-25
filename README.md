@@ -42,7 +42,7 @@
   <table>
   <tr>
     <td width=100><h4><h4>IC2 Canidate</h4></h4></td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/bloggi.gif" alt="IC2 Canidate" height="100" align="center"><br/>CyberSecAwareness</td>
+    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/bloggi.gif" alt="IC2 Canidate" height="300" width="320" align="center"><br/></td>
   </tr>
 </table>
 
