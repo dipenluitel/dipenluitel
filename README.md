@@ -42,7 +42,7 @@
   <table style="border: none;">
   <tr>
     <td width=100><h4><h4>IC2 Canidate</h4></h4></td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/bloggi" alt="IC2 Canidate" height="300" width="320" align="center"><br/></td>
+    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/blow" alt="IC2 Canidate" height="300" width="320" align="center"><br/></td>
   </tr>
 </table>
 
