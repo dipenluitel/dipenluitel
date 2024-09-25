@@ -27,19 +27,19 @@
 
 
 <h1 align="center"><b>Badges </b></h1>
-<table style="border: none;>
+<table style="border: none;">
   <tr>
     <td><h4>Try Hack Me</h4></td>
     <td><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100"><br /></td>
   </tr>
 </table>
-  <table style="border: none;>
+  <table style="border: none;">
   <tr>
     <td><h4>Google Cloud</h4></td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/bloggif" alt="Google Cloud" height="300" width="350" align="center"><br/></td>
   </tr>
   </table>
-  <table style="border: none;>
+  <table style="border: none;">
   <tr>
     <td width=100><h4><h4>IC2 Canidate</h4></h4></td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/bloggi.gif" alt="IC2 Canidate" height="300" width="320" align="center"><br/></td>
