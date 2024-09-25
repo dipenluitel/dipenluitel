@@ -32,11 +32,15 @@
     <td><h4>Try Hack Me</h4></td>
     <td><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100"><br />Level</td>
   </tr>
+</table>
+  <table>
   <tr>
     <td><h4>Google Cloud</h4></td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/cloud_flutter.png" alt="Google Cloud" height="100" width="120" align="center"><br/>Flutter</td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/laterns%20and%20looker.png" alt="Google Cloud" height="100" width="120" align="center"><br/>Lookers</td>
   </tr>
+  </table>
+  <table>
   <tr>
     <td width=100><h4><h4>IC2 Canidate</h4></h4></td>
     <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/CAPC.png" alt="IC2 Canidate" height="100" align="center"><br/>CyberSecAwareness</td>
