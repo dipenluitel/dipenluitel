@@ -36,7 +36,7 @@
   <table>
   <tr>
     <td><h4>Google Cloud</h4></td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/bloggif" alt="Google Cloud" height="100" width="120" align="center"><br/></td>
+    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/bloggif" alt="Google Cloud" height="300" width="320" align="center"><br/></td>
   </tr>
   </table>
   <table>
