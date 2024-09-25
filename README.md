@@ -35,6 +35,7 @@
   <p align="center">
     <p> <h4 align="center"> Google Cloud</h4></p>
     <p><img src="https://github.com/dipenluitel/dipenluitel/blob/main/googleclloud" alt="Google Cloud" height="300" width="350" align="center"><br/></p>
+     <p><img align="right" src="https://github.com/dipenluitel/dipenluitel/blob/main/ant" alt="dipen" ></p>
   </p>
   
   <p align="center">
@@ -52,7 +53,6 @@
 <h1 align="center">Git Activeness</h1>
  <p align="center">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipenluitel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="dipenluitel" /></p>
- <p><img align="center" src="https://github.com/dipenluitel/dipenluitel/blob/main/ant" alt="dipen" height="100"></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipenluitel&show_icons=true&locale=en&theme=chartreuse-dark" alt="dipen luitel" width="410"  /></p>
 
 
