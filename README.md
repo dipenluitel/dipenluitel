@@ -28,20 +28,16 @@
 
 <h1 align="center"><b>Badges </b></h1>
 <p align="center">
-    <p><h4>Try Hack Me</h4></p>
+    <p><h4 align="center">Try Hack Me</h4></p>
     <p><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="TryHackMe" height="100"><br /></p>
 </p>
-  <table style="border: none;">
-  <tr>
-    <td><h4>Google Cloud</h4></td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/googleclloud" alt="Google Cloud" height="300" width="350" align="center"><br/></td>
-  </tr>
-  </table>
-  <table style="border: none;">
-  <tr>
-    <td width=100><h4><h4>IC2 Canidate</h4></h4></td>
-    <td><img src="https://github.com/dipenluitel/dipenluitel/blob/main/blow" alt="IC2 Canidate" height="300" width="320" align="center"><br/></td>
-  </tr>
+  <p align="center">
+    <p> align="center"<h4>Google Cloud</h4></p>
+    <p><img src="https://github.com/dipenluitel/dipenluitel/blob/main/googleclloud" alt="Google Cloud" height="300" width="350" align="center"><br/></p>
+  </p>
+  <p align="center">
+    <p align="center"><h4><h4>IC2 Canidate</h4></h4></p>
+    <p><img src="https://github.com/dipenluitel/dipenluitel/blob/main/blow" alt="IC2 Canidate" height="300" width="320" align="center"><br/></p>
 </p>
 
 <div align="center">
@@ -53,8 +49,8 @@
 
  <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipenluitel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipenluitel&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipenluitel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="200" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipenluitel&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" height=200/></p>
 
 
 
