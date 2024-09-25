@@ -38,7 +38,7 @@
   </p>
   
   <p align="center">
-    <p><h4> align="center">IC2 Canidate</h4></p>
+    <p><h4 align="center">IC2 Canidate</h4></p>
     <p><img src="https://github.com/dipenluitel/dipenluitel/blob/main/blow" alt="IC2 Canidate" height="300" width="320" align="center"><br/></p>
 </p>
 
