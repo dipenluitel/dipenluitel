@@ -34,12 +34,12 @@
 
   <p align="center">
     <p> <h4 align="center"> Google Cloud</h4></p>
-    <p align="center"><img src="https://github.com/dipenluitel/dipenluitel/blob/main/googleclloud" alt="Google Cloud" height="300" width="350" align="center"><br/></p>
+    <p align="center"><img src="https://github.com/dipenluitel/dipenluitel/blob/main/googleclloud" alt="Google Cloud" height="250" width="350" align="center"><br/></p>
   </p>
   
   <p align="center">
     <p><h4 align="center">IC2 Canidate</h4></p>
-    <p align="center"><img src="https://github.com/dipenluitel/dipenluitel/blob/main/blow" alt="IC2 Canidate" height="300" width="320" align="center"><br/></p>
+    <p align="center"><img src="https://github.com/dipenluitel/dipenluitel/blob/main/blow" alt="IC2 Canidate" height="250" width="320" align="center"><br/></p>
 </p>
 <div align="center">
 <h1 align="center"><b>  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50"/>&nbsp; Git profile Trophies</b></h1>
