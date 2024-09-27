@@ -30,13 +30,11 @@
 <p align="center">
     <p><h4 align="center">Try Hack Me</h4></p>
     <p><img src="https://tryhackme-badges.s3.amazonaws.com/dipen400.png" alt="dipen luitel" height="100"><br /></p>
-    <p><img align="right" src="https://github.com/dipenluitel/dipenluitel/blob/main/ant" alt="dipen" height="300" /></p>
 </p>
 
   <p align="center">
     <p> <h4 align="center"> Google Cloud</h4></p>
     <p><img src="https://github.com/dipenluitel/dipenluitel/blob/main/googleclloud" alt="Google Cloud" height="300" width="350" align="center"><br/></p>
-     <p><img align="right" src="https://github.com/dipenluitel/dipenluitel/blob/main/ant" alt="dipen" height="300" /></p>
   </p>
   
   <p align="center">
